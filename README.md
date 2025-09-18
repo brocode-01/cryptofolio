@@ -57,7 +57,6 @@ React Router: A library for routing in React applications.
 
 Tradeview API: to display a real-time chart, a website might reach out with a TradingView API 
 
-API Name: The app utilizes an API to fetch real-time cryptocurrency data. (Specify the name and any other details about the API you are using)
 
 
 
